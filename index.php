@@ -11,12 +11,12 @@
 
                 <script>
                         $(document).ready(function(){
-                                $("#pin2on").click(function(){
-                                         $.get("pin2on.php");
+                                $("#2on").click(function(){
+                                         $.get("2on.php");
                                 });
 
-                                $("#pin2off").click(function(){
-                                        $.get("pin2off.php");
+                                $("#2off").click(function(){
+                                        $.get("2off.php");
                                 });
                         });
                 </script>
@@ -24,8 +24,8 @@
         </head>
 <body>
 
-<button type="button" class="btn btn-primary btn-block" id="pin2on">On</button>
-<button type="button" class="btn btn-primary btn-block" id="pin2off">Off</button>
+<button type="button" class="btn btn-primary btn-block" id="2on">On</button>
+<button type="button" class="btn btn-primary btn-block" id="2off">Off</button>
 
 </body>
 </html>

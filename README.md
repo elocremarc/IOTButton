@@ -15,3 +15,6 @@ https://www.w3schools.com/booTsTrap/bootstrap_buttons.asp
 
 ### More about the AJAX $.get() command
 https://www.w3schools.com/jquery/jquery_ajax_get_post.asp
+
+### JQuery Click 
+https://www.w3schools.com/jquery/jquery_events.asp

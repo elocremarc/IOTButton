@@ -24,7 +24,7 @@
         </head>
 <body>
 
-<button type="button" class="btn btn-primary btn-block" id="pint2on">On</button>
+<button type="button" class="btn btn-primary btn-block" id="pin2on">On</button>
 <button type="button" class="btn btn-primary btn-block" id="pin2off">Off</button>
 
 </body>

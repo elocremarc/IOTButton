@@ -1,6 +1,6 @@
 # Simple IOT Button
 
-Barebones Raspbery Pi IOT ON/OFF button. This runs a simple web page on a webserver like Nginx/Appache the styling is based on Bootstrap 4. It is based on JQUERY/AJAX to dynamically open a PHP page which runs a simple GPIO commands from the terminal using the Wiring Pi library. 
+Barebones Raspbery Pi IOT ON/OFF button. This runs a simple web page on a webserver like Nginx/Appache the styling is based on Bootstrap 4. It works thangs to JQUERY/AJAX that dynamically open a PHP page which runs a simple GPIO commands from the terminal using the Wiring Pi library. 
 
 ## Additional References
 
